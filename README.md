@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Yas👋
 
-<!--
-**K-Y-T/K-Y-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Sri Lankan Electrical and Electronic Engineering student at the University of the West of England with a growing interest in signal processing, embedded systems, and audio technology.
 
-Here are some ideas to get you started:
+I enjoy building projects that combine software, electronics, and music, especially where signal processing and hardware design meet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- Final Year Project – Adaptive tuning system for digital audio signals
+- Sonolux – Modular audio visualiser and embedded audio platform
+- Embedded systems
+- Signal Processing
+- PCB Design
+
+---
+
+## Technical Interests
+
+- Digital Signal Processing (DSP)
+- Analogue Electronics
+- PCB Design
+- Embedded Systems
+- C / C++
+- Audio Technology
+
+---
+
+## Featured Projects
+
+🚀 SpaceXplorer  
+My first substantial C project exploring modular software architecture through a text-based game.
+
+🏠 Embedded Smart Home System  
+Coursework project demonstrating embedded software development.
+
+🎵 Sonolux *(In Progress)*  
+A long-term engineering project exploring audio visualisation, embedded electronics and hardware/software integration.
+
+---
+
+## Connect
+
+LinkedIn:
+<[Yasandu Kalansooriya](https://www.linkedin.com/in/yasanduk/)>
